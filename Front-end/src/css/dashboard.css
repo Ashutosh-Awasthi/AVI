@@ -1,0 +1,20 @@
+#second{
+    background-image: url('https://i.pinimg.com/originals/0a/99/36/0a9936a5e560ca135d9ae4c67588f192.jpg');
+    background-size: cover;
+    background-repeat: repeat-y;
+    width: 100%;
+    height: 100vh;
+}
+#profile-main{
+    height: 80vh;
+    margin-top: 80px;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px;
+    overflow-y: scroll;
+}
+.item{
+    width: 25%
+}
+::-webkit-scrollbar {
+    display: none;
+}

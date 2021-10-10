@@ -1,0 +1,18 @@
+button{
+    background-color:#6a4527 !important;
+    width: 100%;
+    color: white !important;
+    margin-bottom: 1rem;
+}
+p{
+    color: white;
+    font-size: 1.5rem;
+}
+
+input{
+    color: white !important;
+}
+
+form{
+    background-color:transparent;
+}
